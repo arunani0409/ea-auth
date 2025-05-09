@@ -1,17 +1,7 @@
 [
   {
-    "AccNo": 12345678,
-    "AccName": "John Doe",
-    "AccType": "Live"
-  },
-  {
-    "AccNo": 87654321,
-    "AccName": "Jane Smith",
+    "AccNo": 79533431,
+    "AccName": "Arun Demo",
     "AccType": "Demo"
-  },
-  {
-    "AccNo": 11223344,
-    "AccName": "Atul Sharma",
-    "AccType": "Live"
   }
 ]
